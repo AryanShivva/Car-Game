@@ -29,8 +29,8 @@
       android:layout_margin="15sp"
       android:fontFamily="monospace"
       android:gravity="center"
-      android:text="Made by: ARYAN"
-      android:textSize="28sp"
+      android:text="double tap to move"
+      android:textSize="20sp"
       android:textStyle="bold" />
 
 
